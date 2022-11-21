@@ -10,6 +10,6 @@ Fork the repo
 
 Run npm i
 
-Run Tests:
+To Run Tests:
 
 npm run test 
